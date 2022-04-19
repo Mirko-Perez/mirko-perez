@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://steady-bublanina-9b4c95.netlify.app/](https://steady-bublanina-9b4c95.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mirko-perez.netlify.app/](https://mirko-perez.netlify.app/)
 
 - 💬 Ask me about **React**
 
